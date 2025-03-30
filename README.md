@@ -17,7 +17,7 @@ I'm an Artificial Intelligence student 💻 at [ESCOM](https://www.escom.ipn.mx/
 <!-- TODO: Add last video link -->
 
 - ⚙️ I’m currently learning about Web Development.
-- ✏️ Apassinoate of algorythms, maths and competitive programming problems.
+- ✏️ Passionate of algorythms, maths and competitive programming problems.
 - 🤔 I’m looking for an internship.
 - :balloon: I'm an active ICPC participator with my team, 3 devs and 1 paste. (Top 50 at 2024 GP MX)
 - :speech_balloon:Ask me for any question
